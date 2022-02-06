@@ -1,0 +1,12 @@
+venv/
+files/
+.jpg
+.png
+.ipynb
+.xls
+.xlsx
+.txt
+.doc
+.json
+.env
+.log
